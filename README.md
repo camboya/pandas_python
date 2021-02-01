@@ -4,7 +4,7 @@ info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
 # Pandas! [Python]
-En este repositorio encontrarán los siguientes archivos:
+En este repositorio encontrarán los siguientes archivos: a saber
 
 __Ejemplos que el profesor mostrará en clase__\
 ejemplo_clase
